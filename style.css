@@ -3,12 +3,14 @@
 	background: lightblue;
 	margin-left: -60px;
 	margin-right: -60px;
+	text-align: center;
 }
 #head a{
 	margin-left: 220px;
 	text-decoration: none;
 	font-size: 75px;
 	color: #423149;
+	text-align: center;
 }
 
 #title{
